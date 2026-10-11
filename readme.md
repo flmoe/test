@@ -7,7 +7,7 @@ Welcome to my test repository, where I familiarize myself with the usage of Gith
 
 ## Image section
 
-![Just a test image saying "test".](/test.jpg)
+![Just a test image saying "test".](/test.webp)
 
 ## Ending
 
